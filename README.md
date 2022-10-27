@@ -14,12 +14,14 @@
 
 ## Class and Object
 1. Jelaskan definisi Class!
+- bisa membuat blueprint atau mencetak banyak data
 2. Jelaskan perbedaan Attribute dengan Method!
 3. Jelaskan apa itu instansiasi Object!
 4. Jelaskan apa itu identifier!
 
 ## Implementing Class
 Implementasikan kelas diagram "Kendaraan" berikut ke dalam Python!
+(konstraktor di bwah init)
 
    Class Kendaraan :
    
