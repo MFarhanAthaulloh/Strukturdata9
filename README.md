@@ -1,9 +1,15 @@
 # Exercise 9 Struktur Data
 
 ## Introduction Section
-1. Jelaskan definisi object dalam Paradigma Object-Oriented!
-2. Jelaskan tiga tujuan dalam Paradigma Object-Oriented!
-3. Jelaskan tiga prinsip dalam Paradigma Object-Oriented!
+1. Jelaskan definisi object dalam Paradigma Object-Oriented! :
+2. Jelaskan tiga tujuan dalam Paradigma Object-Oriented! :
+- Robustness, Mampu menangani input yang tidak terduga
+- Adaptability, Jalankan dengan perubahan minimal pada perangkat keras dan platform sistem operasi yang berbeda
+- Reusability, Kode yang sama harus dapat digunakan sebagai komponen
+3. Jelaskan tiga prinsip dalam Paradigma Object-Oriented! :
+- Modularity, Kumpulan fungsi dan kelas yang terkait erat yang didefinisikan bersama dalam satu file kode sumber
+- Abstraction, Model dari data struktur
+- Encapsulation, Diasumsikan beberapa struktur data bersifat publik atau yang dianggap sebagai detail internal
 4. Sebutkan contoh design pattern dalam Paradigma Object-Oriented!
 
 ## Class and Object
