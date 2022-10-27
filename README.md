@@ -22,6 +22,7 @@
 ## Implementing Class
 Implementasikan kelas diagram "Kendaraan" berikut ke dalam Python!
 (konstraktor di bwah init)
+(Instasi)
 
    Class Kendaraan :
    
